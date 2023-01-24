@@ -282,3 +282,70 @@ body {
         display: flex;
     }
 }
+
+/* ============================================================================= */
+
+
+.get-started {
+    background-color: #fafbfd;
+    padding: 150px 0 50px 0;
+}
+
+.get-started__container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.get-started__content {
+    flex: 0 1 48%;
+    padding: 0 0 0 20px;
+}
+
+.get-started__block-text {
+    max-width: 410px;
+}
+
+.block-text {}
+
+.block-text__title {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 126%;
+    color: #000;
+}
+.block-text__title span{
+    color: #ec5863;
+}
+.block-text__title_blue span{
+    color: #4285f4;
+}
+
+.block-text__text {}
+
+.block-text__button {}
+
+.get-started__video {
+    flex: 1 1 100%;
+    padding: 0 0 0 20px;
+}
+
+.video-get-started {
+    display: inline-flex;
+}
+
+.video-get-started__icon {}
+
+.video-get-started__body {}
+
+.video-get-started__title {}
+
+.video-get-started__text {}
+
+.get-started__image {
+    flex: 0 1 52%;
+}
+
+.get-started__image img {
+    max-width: 100%;
+}
