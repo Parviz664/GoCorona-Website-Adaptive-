@@ -777,7 +777,7 @@ body {
 }
 @media (max-width: 991.98px) {
     .healthcare__items {
-        gap: 26px;
+        gap: 24px;
     }
 }
 @media (max-width: 767.98px) {
